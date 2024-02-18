@@ -1,2 +1,2 @@
 # GL-Projet
-Version Control of GL PROJET
+Version Control of GL PROJECT
